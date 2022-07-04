@@ -2,7 +2,11 @@
 
 **Uwaga: za każdy znaleziony merytoryczny błąd będę dawał dodatkowe punkty na obronie!**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoRvbQ8kW7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Uwaga 2: to nie jest wykład, jedynie przypomnienie o czym warto powiedzieć podczas obrony na temat 'Bias–variance tradeoff'**
+
+## Nagranie
+
+https://www.youtube.com/embed/eoRvbQ8kW7c
 
 ## Slajd
 
