@@ -2,7 +2,13 @@
 
 **Uwaga: za każdy znaleziony merytoryczny błąd będę dawał dodatkowe punkty na obronie!**
 
-Materiały dodatkowe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoRvbQ8kW7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Slajd
+
+![BiasVarianceTradeoff.png](BiasVarianceTradeoff.png)
+
+## Materiały dodatkowe
 
 * The Elements of Statistical Learning: https://hastie.su.domains/Papers/ESLII.pdf (na początek rozdział 2.9)
 * Explanatory Model Analysis: https://ema.drwhy.ai/ (wyprowadzenie jest w rozdziale 2.5 https://ema.drwhy.ai/modelDevelopmentProcess.html#fitting)
@@ -13,4 +19,3 @@ Materiały dodatkowe
 * Obrazki z wikipedii (są często kopiowane do innych blogów w tej tematyce) https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
 
 
-![BiasVarianceTradeoff.png](BiasVarianceTradeoff.png)
