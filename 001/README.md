@@ -1,5 +1,7 @@
 # Bias–variance tradeoff
 
+**Uwaga: za każdy znaleziony merytoryczny błąd będę dawał dodatkowe punkty na obronie!**
+
 Materiały dodatkowe
 
 * The Elements of Statistical Learning: https://hastie.su.domains/Papers/ESLII.pdf (na początek rozdział 2.9)
@@ -9,3 +11,6 @@ Materiały dodatkowe
 * Z obrazkami dla metody k-NN: https://medium.com/30-days-of-machine-learning/day-3-k-nearest-neighbors-and-bias-variance-tradeoff-75f84d515bdb
 * Ciekawa praca, czy deep learning podlega tym samym prawom co modele klasyczne? https://arxiv.org/abs/2002.11328
 * Obrazki z wikipedii (są często kopiowane do innych blogów w tej tematyce) https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
+
+
+![BiasVarianceTradeoff.png](BiasVarianceTradeoff.png)
